@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project develops a predictive model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators. The goal is to enable early, data-driven interventions that improve student retention and academic success.
+This project develops a predictive model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators. 
+The goal is to enable early, data-driven interventions that improve student retention and academic success.
 The project reflects a full data science lifecycle, from data preprocessing and model development to evaluation and stakeholder communication.
 
 ---
