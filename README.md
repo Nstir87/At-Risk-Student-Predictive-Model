@@ -20,12 +20,12 @@ The project reflects a full data science lifecycle, from data preprocessing and 
 ## Repository Structure
 
 -	Jupyter Notebook (.ipynb) 
-  *	End-to-end workflow including data preprocessing, feature engineering, modeling, and evaluation 
+  -	End-to-end workflow including data preprocessing, feature engineering, modeling, and evaluation 
 -	Final Report / Technical Document 
-  *	Detailed explanation of methodology, modeling decisions, and outcomes 
-  *	Discussion of limitations and future improvements 
+  -	Detailed explanation of methodology, modeling decisions, and outcomes 
+  - Discussion of limitations and future improvements 
 -	Presentation Deck (.pptx) 
-  *	Stakeholder-focused summary of findings and recommendations 
+  -	Stakeholder-focused summary of findings and recommendations 
 -	Highlights key insights and intervention opportunities
 
 
