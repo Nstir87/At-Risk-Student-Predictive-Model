@@ -1,55 +1,49 @@
-## Developer Portfolio Landing Page Template
+---
+layout: default
+title: At-Risk Student Predictive Model
+---
 
-### ⚠️ Project Discontinued ⚠️
+# At-Risk Student Predictive Model
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+## Overview
+
+This project developed a predictive model identifying students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators.
 
 ---
 
-### Introduction
+## Business Problem
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Educational institutions often struggle to identify students requiring intervention before attendance issues become severe.
 
-### Installation
+This project demonstrates how predictive analytics can support proactive retention strategies.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+---
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Technologies Used
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Methodology
 
-```markdown
-Syntax highlighted code block
+- Data cleaning
+- Feature engineering
+- Model training
+- Classification analysis
+- Performance evaluation
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Results
 
-1. Numbered
-2. List
+The model successfully identified high-risk students and demonstrated the value of predictive analytics in educational retention strategies.
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Repository
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+[View GitHub Repository](https://github.com/yourusername/student-risk-predictor)
