@@ -1,49 +1,39 @@
----
-layout: default
-title: At-Risk Student Predictive Model
----
-
 # At-Risk Student Predictive Model
 
 ## Overview
 
-This project developed a predictive model identifying students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators.
+This project develops a predictive model to identify students at risk of problematic attendance patterns using behavioral, demographic, and academic indicators. The goal is to enable early, data-driven interventions that improve student retention and academic success.
+The project reflects a full data science lifecycle, from data preprocessing and model development to evaluation and stakeholder communication.
 
 ---
 
-## Business Problem
+## Objectives
 
-Educational institutions often struggle to identify students requiring intervention before attendance issues become severe.
-
-This project demonstrates how predictive analytics can support proactive retention strategies.
-
----
-
-## Technologies Used
-
-- Python
-- Scikit-learn
-- Pandas
-- Matplotlib
+•	Build a predictive model to identify at-risk students 
+•	Leverage multiple feature types (behavioral, demographic, academic) 
+•	Evaluate model performance using appropriate metrics 
+•	Translate model outputs into actionable intervention strategies 
 
 ---
 
-## Methodology
+## Repository Structure
 
-- Data cleaning
-- Feature engineering
-- Model training
-- Classification analysis
-- Performance evaluation
+•	Jupyter Notebook (.ipynb) 
+    o	End-to-end workflow including data preprocessing, feature engineering, modeling, and evaluation 
+•	Final Report / Technical Document 
+    o	Detailed explanation of methodology, modeling decisions, and outcomes 
+    o	Discussion of limitations and future improvements 
+•	Presentation Deck (.pptx) 
+    o	Stakeholder-focused summary of findings and recommendations 
+o	Highlights key insights and intervention opportunities
 
----
-
-## Results
-
-The model successfully identified high-risk students and demonstrated the value of predictive analytics in educational retention strategies.
 
 ---
 
-## Repository
+## Key Takeaways
 
-[View GitHub Repository](https://github.com/yourusername/student-risk-predictor)
+This project highlights:
+•	The application of predictive analytics in an educational context 
+•	The importance of early identification for intervention-based systems 
+•	The ability to bridge technical modeling and real-world impact
+
